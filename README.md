@@ -14,12 +14,12 @@ After that, run the server with:
 ```
 python server.py
 ```
-The server will run at ``` localhost:5000```
+The server will run at ```localhost:5000```
 
-Go to ``` localhost:5000/data``` to see the data provided by the backend.
+Go to ```localhost:5000/data``` to see the data provided by the backend.
 
 ### 2. Frontend
-In this folder, you will found a simple Vite React page that already fetching the data from ``` localhost:5000/data``` to the main route of the page.
+In this folder, you will found a simple Vite React page that already fetching the data from ```localhost:5000/data``` to the main route of the page.
 Before you can run the frontend server, install the dependency first with:
 
 ```
